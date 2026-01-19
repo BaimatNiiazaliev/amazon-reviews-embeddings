@@ -81,7 +81,16 @@ These results highlight the tradeoff between simplicity, semantic richness, and
 data efficiency.
 
 ---
+## Results Summary
 
+- BoW + Naive Bayes: test error ≈ 14%
+- BERT + Naive Bayes: test error ≈ 21%
+- OpenAI embeddings + Naive Bayes: test error ≈ 4%
+- OpenAI zero-shot baseline: test error ≈ 2.8–3.3%
+
+Detailed confusion matrices and robustness analyses are provided in the notebook.
+
+---
 ## Discussion
 This project illustrates that improvements in representation quality do not
 automatically translate into proportional gains in classification accuracy.
