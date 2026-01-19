@@ -28,6 +28,8 @@ The project uses a prepared Amazon Reviews dataset with:
 Each representation is provided with a predefined train/test split,
 enabling consistent and fair comparison across models.
 
+Data source: Amazon US Customer Reviews Dataset (Kaggle)
+https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset
 ---
 
 ## Approach
