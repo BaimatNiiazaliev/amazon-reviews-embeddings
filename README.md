@@ -66,3 +66,5 @@ Experiments and analysis are being added incrementally.
 - Large datasets and embedding files are not stored in the repository.
 - API keys and credentials are not committed.
 - This project is based on a structured academic assignment and adapted for portfolio presentation.
+- Main experimental results and conclusions are summarized in report.md.
+
